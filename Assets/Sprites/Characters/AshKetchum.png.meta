@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: 980a7eb609c79a04391d65f0029bae51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7309986909161585266
+    second: AshKetchum_0
+  - first:
+      213: 4739301651245452299
+    second: AshKetchum_1
+  - first:
+      213: -9172238782006263640
+    second: AshKetchum_2
+  - first:
+      213: 6891578064532684775
+    second: AshKetchum_3
+  - first:
+      213: 8837254947799155830
+    second: AshKetchum_4
+  - first:
+      213: -7863151568510928603
+    second: AshKetchum_5
+  - first:
+      213: -4247241813013616892
+    second: AshKetchum_6
+  - first:
+      213: 8848273809902100478
+    second: AshKetchum_7
+  - first:
+      213: -1614822261400965812
+    second: AshKetchum_8
+  - first:
+      213: 9004526007329535583
+    second: AshKetchum_9
+  - first:
+      213: 4298002757582142193
+    second: AshKetchum_10
+  - first:
+      213: 5957156367574282537
+    second: AshKetchum_11
+  - first:
+      213: 1403125921315203939
+    second: AshKetchum_12
+  - first:
+      213: 2917367896150022724
+    second: AshKetchum_13
+  - first:
+      213: -5263488267227476763
+    second: AshKetchum_14
+  - first:
+      213: 8109957318879801256
+    second: AshKetchum_15
+  - first:
+      213: -7283306085806145172
+    second: AshKetchum_16
+  - first:
+      213: -1041129390230752108
+    second: AshKetchum_17
+  - first:
+      213: -3047171186033577608
+    second: AshKetchum_18
+  - first:
+      213: -2717265717898161944
+    second: AshKetchum_19
+  - first:
+      213: -5913534857657492810
+    second: AshKetchum_20
+  - first:
+      213: -504410771507938994
+    second: AshKetchum_21
+  - first:
+      213: 1429692612542965710
+    second: AshKetchum_22
+  - first:
+      213: -2530727299323825470
+    second: AshKetchum_23
+  - first:
+      213: -2898788436750347232
+    second: AshKetchum_24
+  - first:
+      213: 1981229825400046809
+    second: AshKetchum_25
+  - first:
+      213: -810101702965597959
+    second: AshKetchum_26
+  - first:
+      213: 306363072081088080
+    second: AshKetchum_27
+  - first:
+      213: -2874202691819031678
+    second: AshKetchum_28
+  - first:
+      213: 1598590017954411215
+    second: AshKetchum_29
+  - first:
+      213: 4593936908079575663
+    second: AshKetchum_30
+  - first:
+      213: 3453596957659839241
+    second: AshKetchum_31
+  - first:
+      213: 3833585107797246753
+    second: AshKetchum_32
+  - first:
+      213: 9112365656675762713
+    second: AshKetchum_33
+  - first:
+      213: -812412377244451363
+    second: AshKetchum_34
+  - first:
+      213: -4358612429434820777
+    second: AshKetchum_35
+  - first:
+      213: -8603849287617454301
+    second: AshKetchum_36
+  - first:
+      213: 8089490363261351898
+    second: AshKetchum_37
+  - first:
+      213: 97812280693656775
+    second: AshKetchum_38
+  - first:
+      213: 1014362890302193711
+    second: AshKetchum_39
+  - first:
+      213: 6054134035935119747
+    second: AshKetchum_40
+  - first:
+      213: 5360921539605847182
+    second: AshKetchum_41
+  - first:
+      213: -2488143187344991228
+    second: AshKetchum_42
+  - first:
+      213: 2505322133596330401
+    second: AshKetchum_43
+  - first:
+      213: -6322773853002311146
+    second: AshKetchum_44
+  - first:
+      213: 1115267496624677320
+    second: AshKetchum_45
+  - first:
+      213: 7318930246085427673
+    second: AshKetchum_46
+  - first:
+      213: 7403556374434863196
+    second: AshKetchum_47
+  - first:
+      213: -7486539583006476998
+    second: AshKetchum_48
+  - first:
+      213: 1188676928134676364
+    second: AshKetchum_49
+  - first:
+      213: 6096733651239349641
+    second: AshKetchum_50
+  - first:
+      213: -4156271843385185771
+    second: AshKetchum_51
+  - first:
+      213: -9001803087444761645
+    second: AshKetchum_52
+  - first:
+      213: 2207302631483110678
+    second: AshKetchum_53
+  - first:
+      213: -5820665180865736294
+    second: AshKetchum_54
+  - first:
+      213: 3659807278904811261
+    second: AshKetchum_55
+  - first:
+      213: 7779661612480364958
+    second: AshKetchum_56
+  - first:
+      213: -4983697846474690978
+    second: AshKetchum_57
+  - first:
+      213: -6765640519208897796
+    second: AshKetchum_58
+  - first:
+      213: 2882118502694502235
+    second: AshKetchum_59
+  - first:
+      213: 8754809073504158931
+    second: AshKetchum_60
+  - first:
+      213: 5071803440548601877
+    second: AshKetchum_61
+  - first:
+      213: -1262459766095253843
+    second: AshKetchum_62
+  - first:
+      213: 3086117366093958167
+    second: AshKetchum_63
+  - first:
+      213: -2565522050120001448
+    second: AshKetchum_64
+  - first:
+      213: 3392294746563738738
+    second: AshKetchum_65
+  - first:
+      213: 2891278795971539181
+    second: AshKetchum_66
+  - first:
+      213: -4003201698021548978
+    second: AshKetchum_67
+  - first:
+      213: -8201544870632334785
+    second: AshKetchum_68
+  - first:
+      213: -7328729356926902282
+    second: AshKetchum_69
+  - first:
+      213: 5476875938078239544
+    second: AshKetchum_70
+  - first:
+      213: -1418800948710536179
+    second: AshKetchum_71
+  - first:
+      213: 7014691092727411640
+    second: AshKetchum_72
+  - first:
+      213: -1267729423165785780
+    second: AshKetchum_73
+  - first:
+      213: -252661699008256402
+    second: AshKetchum_74
+  - first:
+      213: 4373388085751953908
+    second: AshKetchum_75
+  - first:
+      213: -251118412433814106
+    second: AshKetchum_76
+  - first:
+      213: -2404011967042379217
+    second: AshKetchum_77
+  - first:
+      213: -6432335792322639637
+    second: AshKetchum_78
+  - first:
+      213: -5843748847311843469
+    second: AshKetchum_79
+  - first:
+      213: 35916481563805606
+    second: AshKetchum_80
+  - first:
+      213: -5762624495994155264
+    second: AshKetchum_81
+  - first:
+      213: 6215593655349244860
+    second: AshKetchum_82
+  - first:
+      213: -3012015669788955812
+    second: AshKetchum_83
+  - first:
+      213: 6931247763948369691
+    second: AshKetchum_84
+  - first:
+      213: -493674177722820239
+    second: AshKetchum_85
+  - first:
+      213: 8556464643220416719
+    second: AshKetchum_86
+  - first:
+      213: -6277437455323756321
+    second: AshKetchum_87
+  - first:
+      213: -6686648619899877153
+    second: AshKetchum_88
+  - first:
+      213: -6693152081223395422
+    second: AshKetchum_89
+  - first:
+      213: 1331231236204857185
+    second: AshKetchum_90
+  - first:
+      213: -4667060297715803545
+    second: AshKetchum_91
+  - first:
+      213: -983118593236369081
+    second: AshKetchum_92
+  - first:
+      213: 6934661827325994065
+    second: AshKetchum_93
+  - first:
+      213: -6586146580451105254
+    second: AshKetchum_94
+  - first:
+      213: 1146783536280766270
+    second: AshKetchum_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AshKetchum_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 307
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850ba6d2a5bd8a90800000000000000
+      internalID: -7309986909161585266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 307
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c48ededb165c140800000000000000
+      internalID: 4739301651245452299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 307
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a08473ac69a5b080800000000000000
+      internalID: -9172238782006263640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 307
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef385e8cbdc3af50800000000000000
+      internalID: 6891578064532684775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 307
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674c121ad8c34aa70800000000000000
+      internalID: 8837254947799155830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 307
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529b9d72f4970e290800000000000000
+      internalID: -7863151568510928603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 307
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407232ce214ce05c0800000000000000
+      internalID: -4247241813013616892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 307
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5b9266226bca70800000000000000
+      internalID: 8848273809902100478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 307
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d6dcd75bff699e0800000000000000
+      internalID: -1614822261400965812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 307
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56b4a512b086fc70800000000000000
+      internalID: 9004526007329535583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 307
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa35597cb295ab30800000000000000
+      internalID: 4298002757582142193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 307
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b8b867221ca250800000000000000
+      internalID: 5957156367574282537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 263
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba2236797e87310800000000000000
+      internalID: 1403125921315203939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 277
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a962905a29c7820800000000000000
+      internalID: 2917367896150022724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 277
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec4870ee4554f6b0800000000000000
+      internalID: -5263488267227476763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 277
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afe86f863b5c8070800000000000000
+      internalID: 8109957318879801256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 277
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61851d14bf7cea90800000000000000
+      internalID: -7283306085806145172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 277
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494b312f55a2d81f0800000000000000
+      internalID: -1041129390230752108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 278
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b9ae63f546b5d0800000000000000
+      internalID: -3047171186033577608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 278
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0555ce9355a4ad0800000000000000
+      internalID: -2717265717898161944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 277
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba5f62d067eeeda0800000000000000
+      internalID: -5913534857657492810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 277
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4973676319fff8f0800000000000000
+      internalID: -504410771507938994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 277
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7af943bd947d310800000000000000
+      internalID: 1429692612542965710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 278
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c27b6cfdec01ecd0800000000000000
+      internalID: -2530727299323825470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 277
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0245c74764f65c7d0800000000000000
+      internalID: -2898788436750347232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 248
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d40169770ebe7b10800000000000000
+      internalID: 1981229825400046809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 248
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8ebc21bc0f1c4f0800000000000000
+      internalID: -810101702965597959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 248
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ec0b3479b604400800000000000000
+      internalID: 306363072081088080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 248
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b7a541e7cc18d0800000000000000
+      internalID: -2874202691819031678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 248
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc278a1d6255f2610800000000000000
+      internalID: 1598590017954411215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 248
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62b3a63741f0cf30800000000000000
+      internalID: 4593936908079575663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 248
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b3fa29224adef20800000000000000
+      internalID: 3453596957659839241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 248
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1238b762851a33530800000000000000
+      internalID: 3833585107797246753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 248
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912c0ad0940a57e70800000000000000
+      internalID: 9112365656675762713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 248
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb63b4f3bb9b4f0800000000000000
+      internalID: -812412377244451363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 248
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7576fed96191383c0800000000000000
+      internalID: -4358612429434820777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_36
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 185
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f509678acf89880800000000000000
+      internalID: -8603849287617454301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 217
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7732c10a4a34070800000000000000
+      internalID: 8089490363261351898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 216
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc8a6540cf7b5100800000000000000
+      internalID: 97812280693656775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_39
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 216
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f200dc5acadb31e00800000000000000
+      internalID: 1014362890302193711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_40
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 216
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c38a54da940450800000000000000
+      internalID: 6054134035935119747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c52f4acb1d56a40800000000000000
+      internalID: 5360921539605847182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 216
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c5eff24f6587dd0800000000000000
+      internalID: -2488143187344991228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_43
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 216
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9deece431b4c220800000000000000
+      internalID: 2505322133596330401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_44
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 216
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a5ba02eaef048a0800000000000000
+      internalID: -6322773853002311146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 216
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c16ad511e93a7f00800000000000000
+      internalID: 1115267496624677320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 216
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1c8cd0840129560800000000000000
+      internalID: 7318930246085427673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 216
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d4ccfb47beb660800000000000000
+      internalID: 7403556374434863196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_48
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 216
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a357ff52ae77a1890800000000000000
+      internalID: -7486539583006476998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 180
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f7b264e570f7010800000000000000
+      internalID: 1188676928134676364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98daa4434f2fb9450800000000000000
+      internalID: 6096733651239349641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 174
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a611187c4f156c0800000000000000
+      internalID: -4156271843385185771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 170
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d327da19cb231380800000000000000
+      internalID: -9001803087444761645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 172
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615f55d6c0ae1ae10800000000000000
+      internalID: 2207302631483110678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 172
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9153027bd7d83fa0800000000000000
+      internalID: -5820665180865736294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 137
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe9285645f3ac230800000000000000
+      internalID: 3659807278904811261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9182a4a409e6fb60800000000000000
+      internalID: 7779661612480364958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 141
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e2ff0a63956dab0800000000000000
+      internalID: -4983697846474690978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 141
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2709e2bcd9b12a0800000000000000
+      internalID: -6765640519208897796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 139
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fbfa112875ff720800000000000000
+      internalID: 2882118502694502235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_60
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 139
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d40596a7745f7970800000000000000
+      internalID: 8754809073504158931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 108
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510e08c8b5aa26640800000000000000
+      internalID: 5071803440548601877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_62
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 108
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6ba21887da7ee0800000000000000
+      internalID: -1262459766095253843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 108
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc13db46714da20800000000000000
+      internalID: 3086117366093958167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_64
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 108
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8585a23c94f656cd0800000000000000
+      internalID: -2565522050120001448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_65
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 108
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cfa5e491ad31f20800000000000000
+      internalID: 3392294746563738738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 106
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b08c0fb2ef1820800000000000000
+      internalID: 2891278795971539181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 106
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c5f29f345c178c0800000000000000
+      internalID: -4003201698021548978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 106
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a5880d4624e2e80800000000000000
+      internalID: -8201544870632334785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_69
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 106
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff1569aa7f1b4a90800000000000000
+      internalID: -7328729356926902282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_70
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 109
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ba900e5a5c10c40800000000000000
+      internalID: 5476875938078239544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 109
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c0f15ed086f4ce0800000000000000
+      internalID: -1418800948710536179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 76
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b33d172260395160800000000000000
+      internalID: 7014691092727411640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4974ec6ece186ee0800000000000000
+      internalID: -1267729423165785780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_74
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 76
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66244ef58d5e7cf0800000000000000
+      internalID: -252661699008256402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_75
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 78
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9bb24fa4561bc30800000000000000
+      internalID: 4373388085751953908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_76
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 78
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad82566229d38cf0800000000000000
+      internalID: -251118412433814106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 78
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a6ac5adb33aed0800000000000000
+      internalID: -2404011967042379217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_78
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be804964da0cbb6a0800000000000000
+      internalID: -6432335792322639637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_79
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 34
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f01678265d6eea0800000000000000
+      internalID: -5843748847311843469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_80
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 34
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7413589d99f7000800000000000000
+      internalID: 35916481563805606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 34
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fcd467d8b0700b0800000000000000
+      internalID: -5762624495994155264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 35
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb373477f79324650800000000000000
+      internalID: 6215593655349244860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_83
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 35
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ba158e4bb2336d0800000000000000
+      internalID: -3012015669788955812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_84
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 35
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17fc543e1db03060800000000000000
+      internalID: 6931247763948369691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_85
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1795c0273fd1629f0800000000000000
+      internalID: -493674177722820239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_86
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 26
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a758424baeb670800000000000000
+      internalID: 8556464643220416719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_87
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 21
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd802b7c4ef02e8a0800000000000000
+      internalID: -6277437455323756321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd80301f1804433a0800000000000000
+      internalID: -6686648619899877153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_89
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7530bd4a52d13a0800000000000000
+      internalID: -6693152081223395422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_90
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 8
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16705e391cb797210800000000000000
+      internalID: 1331231236204857185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 8
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1259e2654b3fb0800000000000000
+      internalID: -4667060297715803545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 10
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741801629d24b52f0800000000000000
+      internalID: -983118593236369081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1542a37c03edc3060800000000000000
+      internalID: 6934661827325994065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_94
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16ee89749e4994a0800000000000000
+      internalID: -6586146580451105254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshKetchum_95
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e370842ec813aef00800000000000000
+      internalID: 1146783536280766270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

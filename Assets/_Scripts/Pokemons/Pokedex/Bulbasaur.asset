@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63bc17c287bcd1245840d2cdd6e9be5e, type: 3}
+  m_Name: Bulbasaur
+  m_EditorClassIdentifier: 
+  ID: 1
+  name: Bulbasaur
+  description: "Despu\xE9s de nacer, crece aliment\xE1ndose de las semillas de su
+    lomo."
+  frontSprite: {fileID: 21300000, guid: 9024cd73bfe546d4e9589759fe2b1f36, type: 3}
+  backSprite: {fileID: 21300000, guid: 9b09ef3e5e4175641b404d576884f67d, type: 3}
+  type1: 5
+  type2: 8
+  catchRate: 45
+  maxHP: 45
+  attack: 49
+  defense: 49
+  spAttack: 65
+  spDefense: 65
+  speed: 45
+  expBase: 65
+  growthRate: 3
+  learnableMoves:
+  - _move: {fileID: 11400000, guid: 0186dbe2e03673f4fbaabcf644ed8685, type: 2}
+    level: 1
+  - _move: {fileID: 11400000, guid: 4bbd5b16b60430d4b89ddf90a490538a, type: 2}
+    level: 5
+  - _move: {fileID: 11400000, guid: 11d69710707eacd4bbdef51140ccac19, type: 2}
+    level: 7

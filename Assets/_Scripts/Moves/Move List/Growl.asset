@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76a38ee5e0702da4ba819c5cd86d9d38, type: 3}
+  m_Name: Growl
+  m_EditorClassIdentifier: 
+  name: "Gru\xF1ido"
+  description: "El usuario gru\xF1e de una manera entra\xF1able, haciendo que el
+    enemigo sea menos cauteloso. La estad\xEDstica de ataque del objetivo se reduce."
+  type: 1
+  power: 0
+  accuracy: 100
+  pp: 40
+  moveType: 2
+  effects:
+    boostings:
+    - stat: 0
+      boost: -1
+      target: 1
+  target: 1
